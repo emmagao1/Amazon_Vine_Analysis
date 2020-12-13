@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to perform the ETL process to extract dataset and store it with Amazon Web Services (AWS). The dataset is from a Amazon Customer Review database that contains two types of customer feedback: paid and unpaid reviews. This dataset includes information about various watches from an Amazon program called Vine that was responsible for conducting the paid reviews.
 
-Software: Python with PySpark in Google Colaboratory (used to transform and clean the dataset), pgAdmin with SQL tables, and AWS servers.
+Software: Python with PySpark in Google Colaboratory, pgAdmin with SQL tables, and AWS servers.
 
 ## Results
 
